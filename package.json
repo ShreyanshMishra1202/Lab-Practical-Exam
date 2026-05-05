@@ -1,0 +1,24 @@
+{
+  "name": "lab-practical",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShreyanshMishra1202/Lab-Practical-Exam.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ShreyanshMishra1202/Lab-Practical-Exam/issues"
+  },
+  "homepage": "https://github.com/ShreyanshMishra1202/Lab-Practical-Exam#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
